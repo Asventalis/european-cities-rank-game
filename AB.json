@@ -1,0 +1,220 @@
+{
+  "number_of_players": 4,
+  "player_names": [
+    "Morri",
+    "Alfred",
+    "Niglia",
+    "Pago"
+  ],
+  "target_rank": 100,
+  "turns": [
+    {
+      "player_id": 0,
+      "choice": 192
+    },
+    {
+      "player_id": 1,
+      "choice": 91
+    },
+    {
+      "player_id": 2,
+      "choice": 454
+    },
+    {
+      "player_id": 3,
+      "choice": 316
+    },
+    {
+      "player_id": 0,
+      "choice": 63
+    },
+    {
+      "player_id": 1,
+      "choice": 72
+    },
+    {
+      "player_id": 2,
+      "choice": 43
+    },
+    {
+      "player_id": 3,
+      "choice": 86
+    },
+    {
+      "player_id": 0,
+      "choice": 246
+    },
+    {
+      "player_id": 1,
+      "choice": 62
+    },
+    {
+      "player_id": 2,
+      "choice": 65
+    },
+    {
+      "player_id": 3,
+      "choice": 23
+    },
+    {
+      "player_id": 0,
+      "choice": 132
+    },
+    {
+      "player_id": 1,
+      "choice": 101
+    },
+    {
+      "player_id": 2,
+      "choice": 133
+    },
+    {
+      "player_id": 3,
+      "choice": 6
+    },
+    {
+      "player_id": 0,
+      "choice": 52
+    },
+    {
+      "player_id": 1,
+      "choice": 59
+    },
+    {
+      "player_id": 2,
+      "choice": 176
+    },
+    {
+      "player_id": 3,
+      "choice": 255
+    },
+    {
+      "player_id": 0,
+      "choice": 105
+    },
+    {
+      "player_id": 1,
+      "choice": 196
+    },
+    {
+      "player_id": 2,
+      "choice": 49
+    },
+    {
+      "player_id": 3,
+      "choice": 22
+    },
+    {
+      "player_id": 0,
+      "choice": 93
+    },
+    {
+      "player_id": 1,
+      "choice": 16
+    },
+    {
+      "player_id": 2,
+      "choice": 5
+    },
+    {
+      "player_id": 3,
+      "choice": 30
+    },
+    {
+      "player_id": 0,
+      "choice": 75
+    },
+    {
+      "player_id": 1,
+      "choice": 112
+    },
+    {
+      "player_id": 2,
+      "choice": 15
+    },
+    {
+      "player_id": 3,
+      "choice": 11
+    },
+    {
+      "player_id": 0,
+      "choice": 12
+    },
+    {
+      "player_id": 1,
+      "choice": 39
+    },
+    {
+      "player_id": 2,
+      "choice": 80
+    },
+    {
+      "player_id": 3,
+      "choice": 169
+    },
+    {
+      "player_id": 0,
+      "choice": 84
+    },
+    {
+      "player_id": 1,
+      "choice": 166
+    },
+    {
+      "player_id": 2,
+      "choice": 178
+    },
+    {
+      "player_id": 3,
+      "choice": 33
+    },
+    {
+      "player_id": 0,
+      "choice": 7
+    },
+    {
+      "player_id": 1,
+      "choice": 85
+    },
+    {
+      "player_id": 2,
+      "choice": 381
+    },
+    {
+      "player_id": 3,
+      "choice": 3
+    },
+    {
+      "player_id": 0,
+      "choice": 146
+    },
+    {
+      "player_id": 1,
+      "choice": 126
+    },
+    {
+      "player_id": 2,
+      "choice": 19
+    },
+    {
+      "player_id": 3,
+      "choice": 104
+    },
+    {
+      "player_id": 0,
+      "choice": 41
+    },
+    {
+      "player_id": 1,
+      "choice": 2
+    },
+    {
+      "player_id": 2,
+      "choice": 32
+    },
+    {
+      "player_id": 3,
+      "choice": 42
+    }
+  ]
+}

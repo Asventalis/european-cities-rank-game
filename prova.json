@@ -1,0 +1,116 @@
+{
+  "number_of_players": 4,
+  "player_names": [
+    "Pago",
+    "Morri",
+    "Yoshi",
+    "GT"
+  ],
+  "target_rank": 100,
+  "turns": [
+    {
+      "player_id": 0,
+      "choice": 86
+    },
+    {
+      "player_id": 1,
+      "choice": 63
+    },
+    {
+      "player_id": 2,
+      "choice": 146
+    },
+    {
+      "player_id": 3,
+      "choice": 2695
+    },
+    {
+      "player_id": 0,
+      "choice": 255
+    },
+    {
+      "player_id": 1,
+      "choice": 1695
+    },
+    {
+      "player_id": 2,
+      "choice": 482
+    },
+    {
+      "player_id": 3,
+      "choice": 6025
+    },
+    {
+      "player_id": 0,
+      "choice": 7774
+    },
+    {
+      "player_id": 1,
+      "choice": 2987
+    },
+    {
+      "player_id": 2,
+      "choice": 1634
+    },
+    {
+      "player_id": 3,
+      "choice": 3324
+    },
+    {
+      "player_id": 0,
+      "choice": 925
+    },
+    {
+      "player_id": 1,
+      "choice": 192
+    },
+    {
+      "player_id": 2,
+      "choice": 7
+    },
+    {
+      "player_id": 3,
+      "choice": 65
+    },
+    {
+      "player_id": 0,
+      "choice": 381
+    },
+    {
+      "player_id": 1,
+      "choice": 176
+    },
+    {
+      "player_id": 2,
+      "choice": 3762
+    },
+    {
+      "player_id": 3,
+      "choice": 33
+    },
+    {
+      "player_id": 0,
+      "choice": 7502
+    },
+    {
+      "player_id": 1,
+      "choice": 848
+    },
+    {
+      "player_id": 2,
+      "choice": 3168
+    },
+    {
+      "player_id": 3,
+      "choice": 3168
+    },
+    {
+      "player_id": 0,
+      "choice": 3599
+    },
+    {
+      "player_id": 1,
+      "choice": 3784
+    }
+  ]
+}
